@@ -31,6 +31,22 @@
 
 
 
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=karen-kac&theme=flat&column=7&margin-w=5" />
+
+
+
+### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=karen-kac&theme=tokyonight&date_format=%5BY.%5Dm.j" />
+
+
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karen-kac&theme=tokyo-night" />
+
 ### 🧸 My Favorites
 
 ![C](https://img.shields.io/badge/-C-ff69b4?style=flat-square&logo=c&logoColor=white)
