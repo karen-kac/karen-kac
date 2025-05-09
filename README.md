@@ -1,7 +1,7 @@
 <!-- タイトルと絵文字 -->
 <h1 align="center">🌷 Welcome to Mai's GitHub! 🌷</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cherry+Swash&color=FF69B4&size=24&center=true&vCenter=true&width=600&height=45&lines=Hello+World!+I'm+SAKi.;I+love+C%2C+C%2B%2B+and+Python.%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cherry+Swash&color=FF69B4&size=24&center=true&vCenter=true&width=600&height=45&lines=Hello+World!+I'm+Mai.;I+love+C%2C+C%2B%2B+and+Python.%E2%9C%A8" />
 </p>
 
 <!-- 自己紹介 -->
