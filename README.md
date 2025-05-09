@@ -25,7 +25,8 @@
 ### 🎨 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-kac&layout=compact&theme=tokyonight&title_color=ff79c6&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-kac&layout=compact&theme=tokyonight&exclude_repo=skills-getting-started-with-github-copilot,satelliteBook" />
+
 </p>
 
 
