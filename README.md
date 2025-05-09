@@ -1,7 +1,7 @@
-<!-- タイトルと自己紹介アニメ -->
+<!-- タイトル -->
 <h1 align="center">🌷 Welcome to Mai's GitHub! 🌷</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cherry+Swash&color=FF69B4&size=24&center=true&vCenter=true&width=600&height=45&lines=Hello+World!+I'm+Mai.;I+love+C%2C+C%2B%2B+and+Python.%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cherry+Swash&color=FF69B4&size=24&center=true&vCenter=true&width=600&height=45&lines=Hello+World!+I'm+Mai.;I+love+C%2C+C%2B%2B+and+Python.%E2%9C%A8" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 🦄 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=karen-kac&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ff79c6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karen-kac&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ff79c6&cache_seconds=1800" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🎨 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=karen-kac&layout=compact&theme=tokyonight&title_color=ff79c6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-kac&layout=compact&theme=tokyonight&title_color=ff79c6&cache_seconds=1800" />
 </p>
 
 ---
