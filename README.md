@@ -37,11 +37,6 @@
 
 
 
-### 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=karen-kac&theme=tokyonight&date_format=%5BY.%5Dm.j" />
-
-
 
 ### 📈 Activity Graph
 
